@@ -106,3 +106,22 @@ I am experienced in... I attended ... I worked with...
 **Software:** Arc GIS  
 **Version:** 10.6  
 **Packages:** Package 1, Package 2 
+
+
+# Project 7: My seventh GIS Project
+*Completed June 2022*
+* mapped and analyzed things that exist and events that happen on Earth
+* more description
+* more description
+
+
+<img src="images/Layout.png" img align="center" width="600" height="450">
+
+
+
+## Code and Resources Used:
+**Link to code:** [Project Title](https://www.google.com)  
+**Software:** Arc GIS  
+**Version:** 10.6  
+**Packages:** Package 1, Package 2 
+
