@@ -26,7 +26,7 @@ I am experienced in... I attended ... I worked with...
 * more description
 
 
-<img src="images/baltregion_enocfuentes.png" img align="center" width="600" height="450">
+<img src="images/baltregion_enocfuentes.png" img align="center" width="500" height="650">
 
 
 
