@@ -8,7 +8,7 @@ My first GIS Portfolio
 
 ## Code and Resources Used:
 **Link to code:** [Project Title](https://www.google.com)
-**Software:** Arc GIS
+**Software:** Arc GIS  
 **Version:** 10.6
 **Packages:** Package 1, Package 2
 
