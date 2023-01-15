@@ -1,5 +1,5 @@
 # enocsportfolio.github.io
-My first GIS Portfolio
+I am experienced in... I attended ... I worked with...
  
 # Project 1: My first GIS Project
 * mapped and analyzed things that exist and events that happen on Earth
