@@ -7,7 +7,7 @@ I am experienced in... I attended ... I worked with...
 * more description
 * more description
 
-<img src="images/soil_layout.png" width="100" height="100">
+<img src="images/soil_layout.png" width="600" height="400">
 
 ## Code and Resources Used:
 **Link to code:** [Project Title](https://www.google.com)  
