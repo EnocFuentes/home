@@ -7,6 +7,8 @@ I am experienced in... I attended ... I worked with...
 * more description
 * more description
 
+![alt text](images/lab_3_final.pdf)
+
 ## Code and Resources Used:
 **Link to code:** [Project Title](https://www.google.com)  
 **Software:** Arc GIS  
