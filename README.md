@@ -7,10 +7,10 @@ My first GIS Portfolio
 * more description
 
 ## Code and Resources Used:
-**Link to code:** [Project Title](https://www.google.com)
+**Link to code:** [Project Title](https://www.google.com)  
 **Software:** Arc GIS  
-**Version:** 10.6
-**Packages:** Package 1, Package 2
+**Version:** 10.6  
+**Packages:** Package 1, Package 2  
 
 # Project 2: My second GIS Project
 * mapped and analyzed things that exist and events that happen on Earth
@@ -19,7 +19,7 @@ My first GIS Portfolio
 
 
 ## Code and Resources Used:
-**Link to code:** [Project Title](https://www.google.com)
-**Software:** Arc GIS
-**Version:** 10.6
-**Packages:** Package 1, Package 2
+**Link to code:** [Project Title](https://www.google.com)  
+**Software:** Arc GIS  
+**Version:** 10.6  
+**Packages:** Package 1, Package 2  
