@@ -21,6 +21,8 @@ I am experienced in... I attended ... I worked with...
 * more description
 * more description
 
+![Soil Layout](images/Layout1 (1).png)
+
 
 ## Code and Resources Used:
 **Link to code:** [Project Title](https://www.google.com)  
