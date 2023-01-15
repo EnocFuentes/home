@@ -6,7 +6,8 @@ My first GIS Portfolio
 * more description
 * more description
 
-## Resources Used:
+## Code and Resources Used:
+**Link to code:** [Project Title](https://www.google.com)
 **Software:** Arc GIS
 **Version:** 10.6
 **Packages:** Package 1, Package 2
@@ -17,7 +18,8 @@ My first GIS Portfolio
 * more description
 
 
-## Resources Used:
+## Code and Resources Used:
+**Link to code:** [Project Title](https://www.google.com)
 **Software:** Arc GIS
 **Version:** 10.6
 **Packages:** Package 1, Package 2
