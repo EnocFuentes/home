@@ -2,6 +2,7 @@
 I am experienced in... I attended ... I worked with...
  
 # Project 1: My first GIS Project
+*Completed December 2022*
 * mapped and analyzed things that exist and events that happen on Earth
 * more description
 * more description
@@ -13,6 +14,7 @@ I am experienced in... I attended ... I worked with...
 **Packages:** Package 1, Package 2  
 
 # Project 2: My second GIS Project
+*Completed June 2022*
 * mapped and analyzed things that exist and events that happen on Earth
 * more description
 * more description
