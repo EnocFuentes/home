@@ -51,8 +51,6 @@ I am a Geography and Environmental Science student and Facilty Steward at Locust
 # Project 8: My sixth GIS Project
 *Completed June 2022*
 * mapped and analyzed things that exist and events that happen on Earth
-* more description
-* more description
 
 
 <img src="images/Layout.png" img align="center" width="900" height="750">
@@ -61,10 +59,8 @@ I am a Geography and Environmental Science student and Facilty Steward at Locust
 
 # Analyzing Flood Risk in Baltimore City 
 *Completed June 2022*
-* mapped and analyzed things that exist and events that happen on Earth
-* more description
-* more description
+* Mapped various risk factors that contribute to flooding and overlayed the resulting maps to determing areas in Baltimore city that are prone to flooding.
 
 
-<img src="images/Layout.png" img align="center" width="900" height="750">
-<img src="images/Layout.png" img align="center" width="900" height="750">
+<img src="images/Picture1.jpg" img align="center" width="900" height="750">
+<img src="images/Picture2.png" img align="center" width="900" height="750">
