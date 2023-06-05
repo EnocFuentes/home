@@ -12,10 +12,9 @@ I am experienced in... I attended ... I worked with...
 
 
 ## Code and Resources Used:
-**Link to code:** [Project Title](https://www.google.com)  
 **Software:** Arc GIS  
 **Version:** 10.6  
-**Packages:** Package 1, Package 2 
+
 
 
 # Project 6: My sixth GIS Project
@@ -30,10 +29,8 @@ I am experienced in... I attended ... I worked with...
 
 
 ## Code and Resources Used:
-**Link to code:** [Project Title](https://www.google.com)  
 **Software:** Arc GIS  
 **Version:** 10.6  
-**Packages:** Package 1, Package 2 
 
 
 # Project 7: My seventh GIS Project
@@ -48,10 +45,8 @@ I am experienced in... I attended ... I worked with...
 
 
 ## Code and Resources Used:
-**Link to code:** [Project Title](https://www.google.com)  
 **Software:** Arc GIS  
 **Version:** 10.6  
-**Packages:** Package 1, Package 2 
 
 # Project 8: My sixth GIS Project
 *Completed June 2022*
