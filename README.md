@@ -17,14 +17,13 @@ I am a Geography and Environmental Science student at UMBC and a Facilty Steward
 
 
 
-# Project 6: My sixth GIS Project
+# Stream Study of Herbert Run in Baltimore County
 *Completed June 2022*
-* mapped and analyzed things that exist and events that happen on Earth
-* more description
-* more description
+* Used various mapping techniques to analyze the flow and dimensions of Herbert Run.
 
 
-<img src="images/final.png" img align="center" width="550" height="450">
+
+<img src="images/final.png" img align="center" width="650" height="450">
 
 
 
@@ -40,7 +39,7 @@ I am a Geography and Environmental Science student at UMBC and a Facilty Steward
 * more description
 
 
-<img src="images/newmap.png" img align="center" width="550" height="450">
+<img src="images/newmap.png" img align="center" width="650" height="450">
 
 
 
@@ -53,7 +52,7 @@ I am a Geography and Environmental Science student at UMBC and a Facilty Steward
 * mapped and analyzed things that exist and events that happen on Earth
 
 
-<img src="images/Layout.png" img align="center" width="550" height="450">
+<img src="images/Layout.png" img align="center" width="650" height="450">
 
 
 
