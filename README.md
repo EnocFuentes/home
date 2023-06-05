@@ -32,12 +32,9 @@ I am a Geography and Environmental Science student at UMBC and a Facilty Steward
 **Version:** 10.6  
 
 
-# Project 7: My seventh GIS Project
-*Completed June 2022*
-* mapped and analyzed things that exist and events that happen on Earth
-* more description
-* more description
-
+# Choropleth Map of Median Household Income in the United States
+*Completed March 2023*
+* Used Census data and ArcGIS to create a chloropleth map of Median Household Income through the United States
 
 <img src="images/newmap.png" img align="center" width="650" height="450">
 
@@ -47,10 +44,10 @@ I am a Geography and Environmental Science student at UMBC and a Facilty Steward
 **Software:** Arc GIS  
 **Version:** 10.6  
 
-# Project 8: My sixth GIS Project
+# NDVI Vegetation Density Mapping
 *Completed June 2022*
-* mapped and analyzed things that exist and events that happen on Earth
-
+* Used infrared photography to create a Normalized Difference Vegetation Index of various sites around UMBC
+ 
 
 <img src="images/Layout.png" img align="center" width="650" height="450">
 
