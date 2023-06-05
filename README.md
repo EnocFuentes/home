@@ -7,7 +7,7 @@ I am a Geography and Environmental Science student at UMBC and a Facilty Steward
 
 
 
-<img src="images/practical.png" img align="center" width="900" height="750">
+<img src="images/practical.png" img align="center" width="550" height="450">
 
 
 
@@ -24,7 +24,7 @@ I am a Geography and Environmental Science student at UMBC and a Facilty Steward
 * more description
 
 
-<img src="images/final.png" img align="center" width="900" height="750">
+<img src="images/final.png" img align="center" width="550" height="450">
 
 
 
@@ -40,7 +40,7 @@ I am a Geography and Environmental Science student at UMBC and a Facilty Steward
 * more description
 
 
-<img src="images/newmap.png" img align="center" width="900" height="750">
+<img src="images/newmap.png" img align="center" width="550" height="450">
 
 
 
@@ -53,7 +53,7 @@ I am a Geography and Environmental Science student at UMBC and a Facilty Steward
 * mapped and analyzed things that exist and events that happen on Earth
 
 
-<img src="images/Layout.png" img align="center" width="900" height="750">
+<img src="images/Layout.png" img align="center" width="550" height="450">
 
 
 
