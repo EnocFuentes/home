@@ -8,7 +8,7 @@ I am experienced in... I attended ... I worked with...
 * more description
 
 
-<img src="images/practical.png" img align="center" width="600" height="450">
+<img src="images/practical.png" img align="center" width="900" height="750">
 
 
 
@@ -26,7 +26,7 @@ I am experienced in... I attended ... I worked with...
 * more description
 
 
-<img src="images/final.png" img align="center" width="600" height="450">
+<img src="images/final.png" img align="center" width="900" height="750">
 
 
 
@@ -44,7 +44,7 @@ I am experienced in... I attended ... I worked with...
 * more description
 
 
-<img src="images/newmap.png" img align="center" width="600" height="450">
+<img src="images/newmap.png" img align="center" width="900" height="750">
 
 
 
