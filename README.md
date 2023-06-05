@@ -18,7 +18,7 @@ I am a Geography and Environmental Science student at UMBC and a Facilty Steward
 
 
 # Stream Study of Herbert Run in Baltimore County
-*Completed June 2022*
+*Completed December 2022*
 * Used various mapping techniques to analyze the flow and dimensions of Herbert Run.
 
 
