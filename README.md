@@ -55,5 +55,5 @@ I am a Geography and Environmental Science student and Facilty Steward at Locust
 * more description
 
 
-<img src="![Layout(2)](https://github.com/EnocFuentes/enocsportfolio.github.io/assets/122741668/c064df96-1ab1-4135-b171-1b3fc186fd81)" img align="center" width="600" height="450">
+<img src="images/layout.png" img align="center" width="900" height="750">
 
