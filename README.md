@@ -115,7 +115,7 @@ I am experienced in... I attended ... I worked with...
 * more description
 
 
-<img src="images/Layout.png" img align="center" width="600" height="450">
+<img src="images/Layout(2).png" img align="center" width="600" height="450">
 
 
 
