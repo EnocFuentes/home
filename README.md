@@ -55,5 +55,5 @@ I am a Geography and Environmental Science student and Facilty Steward at Locust
 * more description
 
 
-<img src="images/layout.png" img align="center" width="900" height="750">
+<img src="images/Layout.png" img align="center" width="900" height="750">
 
