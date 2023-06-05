@@ -3,7 +3,7 @@ I am a Geography and Environmental Science student at UMBC and a Facilty Steward
 
 # Analyzing Squirrel Nesting Habits on UMBC Campus
 *Completed December 2022*
-* Collected trailcam data and mapped squirrel activity and nesting habits 
+* Collected trailcam data and mapped squirrel activity and nesting habits in various locations around UMBC campus 
 
 
 
