@@ -62,5 +62,5 @@ I am a Geography and Environmental Science student and Facilty Steward at Locust
 * Mapped various risk factors that contribute to flooding and overlayed the resulting maps to determing areas in Baltimore city that are prone to flooding.
 
 
-<img src="images/Picture1.jpg" img align="center" width="900" height="750">
-<img src="images/Picture2.png" img align="center" width="900" height="750">
+<img src="images/Picture1.jpg" img align="center" width="600" height="450">
+<img src="images/Picture2.png" img align="center" width="600" height="450">
