@@ -4,8 +4,7 @@ I am experienced in... I attended ... I worked with...
 # Analyzing Squirrel Nesting Habits on UMBC Campus
 *Completed December 2022*
 * Collected trailcam data and mapped squirrel activity and nesting habits 
-* more description
-* more description
+
 
 
 <img src="images/practical.png" img align="center" width="900" height="750">
