@@ -49,7 +49,7 @@ I am a Geography and Environmental Science student at UMBC and a Facilty Steward
 * Used infrared photography to create a Normalized Difference Vegetation Index of various sites around UMBC
  
 
-<img src="images/Layout.png" img align="center" width="650" height="450">
+<img src="images/Layout.png" img align="center" width="700" height="450">
 
 
 
