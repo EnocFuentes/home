@@ -1,5 +1,5 @@
 # Enoc Fuentes
-I am experienced in... I attended ... I worked with...
+I am a Geography and Environmental Science student and Facilty Steward at Locust Grove Nature Center. This website showcases the various ArcGIS projects I have completed.
 
 # Analyzing Squirrel Nesting Habits on UMBC Campus
 *Completed December 2022*
