@@ -1,6 +1,6 @@
 # Enoc Fuentes
 I am a Geography and Environmental Science student at UMBC and a Facilty Steward at Locust Grove Nature Center. 
-I have experience with ArcGIS, ArcGIS Online, and QGIS. Profiecient in SQL, Java, and R.
+I have experience with ArcGIS, ArcGIS Online, and QGIS. I am also Profiecient in SQL, Java, and R.
 This website showcases the various ArcGIS projects I have completed.
 
 # Analyzing Squirrel Nesting Habits on UMBC Campus
@@ -71,3 +71,20 @@ This website showcases the various ArcGIS projects I have completed.
 * Used infared cameras attached to weather ballons to create a georeferenced photo mosaic that was used to create a Normalized Difference Vegetation Index.
 
 <img src="images/balloon_layout-min.png" img align="center" width="650" height="450">
+
+
+## Software Used:
+**Software:** Arc GIS  
+**Version:** 10.6  
+
+
+# Kernel Density Mapping of Rat Sightings in Baltimore City
+*Completed March 2023*
+* Used the Kernel methid for density mapping to visualize concentrations of rat sightings in Baltimore City and the Bel Air Edison Neighborhood
+
+<img src="images/balloon_layout-min.png" img align="center" width="650" height="450">
+
+
+## Software Used:
+**Software:** Arc GIS  
+**Version:** 10.6  
