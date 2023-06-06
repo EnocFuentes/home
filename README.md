@@ -80,10 +80,10 @@ This website showcases the various ArcGIS projects I have completed.
 
 # Kernel Density Mapping of Rat Sightings in Baltimore City
 *Completed March 2023*
-* Used the Kernel methid for density mapping to visualize concentrations of rat sightings in Baltimore City and the Bel Air Edison Neighborhood
+* Used the Kernel method for density mapping to visualize concentrations of rat sightings in Baltimore City and the Bel Air Edison Neighborhood
 
-<img src="images/bmore_rat.png" img align="center" width="650" height="450">
-<img src="images/belair_rat.png" img align="center" width="650" height="450">
+<img src="images/bmore_rat.png" img align="center" width="550" height="450">
+<img src="images/belair_rat.png" img align="center" width="550" height="450">
 
 ## Software Used:
 **Software:** Arc GIS  
