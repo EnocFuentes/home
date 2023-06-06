@@ -70,4 +70,4 @@ This website showcases the various ArcGIS projects I have completed.
 *Completed March 2023*
 * Used infared cameras attached to weather ballons to create a georeferenced photo mosaic that was used to create a Normalized Difference Vegetation Index.
 
-<img src="images/newmap.png" img align="center" width="650" height="450">
+<img src="images/balloon_layout_min.png" img align="center" width="650" height="450">
