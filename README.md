@@ -1,3 +1,4 @@
+# Projects
 # Analyzing Squirrel Nesting Habits on UMBC Campus
 *Completed December 2022*
 * Mapped and analyzed squirrel activity and nesting habits using trailcam data in various locations around UMBC campus. 
