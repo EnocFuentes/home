@@ -1,8 +1,3 @@
-# Enoc Fuentes
-I am a Geography and Environmental Science student at UMBC and a Facilty Steward at Locust Grove Nature Center. 
-I have experience with ArcGIS, ArcGIS Online, and QGIS. I am also proficient in SQL, Java, and R.
-This website showcases the various ArcGIS projects I have completed.
-
 # Analyzing Squirrel Nesting Habits on UMBC Campus
 *Completed December 2022*
 * Mapped and analyzed squirrel activity and nesting habits using trailcam data in various locations around UMBC campus. 
